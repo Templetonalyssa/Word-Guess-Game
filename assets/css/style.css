@@ -1,0 +1,12 @@
+
+
+body {
+    background-image: url(../images/skull.jpg);
+}
+
+#presskey {
+    font-family: 'Reenie Beanie', cursive;
+    color: white;
+    font-weight: bold;
+    padding: 40px;
+}
