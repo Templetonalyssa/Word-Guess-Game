@@ -50,15 +50,3 @@ document.onkeyup = function(event){
 };
 
 gameStart ()
-
-//var things = ['Rock', 'Paper', 'Scissor'];
-//var thing = things[Math.floor(Math.random()*things.length)];
-//alert('The computer chose:' + thing);
-
-// //for (var i = 0; i<randomWord.length; i++){
-//   if (lettersGuessed.includes(randomWord[i])) {
-//     tempString += randomWord[i] + " ";
-// } else {
-// tempString += "_ ";
-// }
-// } 

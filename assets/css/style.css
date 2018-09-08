@@ -10,3 +10,11 @@ body {
     font-weight: bold;
     padding: 40px;
 }
+
+#gamebox {
+    border: solid 20px;
+    border-color: grey;
+    width: 500px;
+    border-radius: 10px;
+
+}
