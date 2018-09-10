@@ -40,13 +40,13 @@ function gameStart(){
 document.onkeyup = function(event){
 
 
-  document.getElementById("randomword").innerHTML = tempArray;
-
  console.log(event.key)
  for (var i = 0; i<computerWord.length; i++) {
    if (event.key === computerWord[i])  {
      tempArray[i]=event.key;
    }
+
+   document.getElementById("randomword").innerHTML = tempArray;
    }
 console.log(tempArray);
 };
