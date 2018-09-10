@@ -12,9 +12,12 @@ body {
 }
 
 #gamebox {
-    border: solid 20px;
+    border: solid 3px;
     border-color: grey;
     width: 500px;
+    height: 300px;
     border-radius: 10px;
+    margin-left: 30px;
+    color: white;
 
 }
